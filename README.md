@@ -29,7 +29,4 @@ The navigation currently includes:
 ---
 ## 🎥 Demo Video
 
-<video src="demo.mp4" controls width="600">
-  Your browser does not support the video tag.  
-  👉 [Click here to watch the demo](pbl.mp4)
-</video>
+▶️ [Watch the demo](pbl.mp4)
