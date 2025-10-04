@@ -27,4 +27,7 @@ The navigation currently includes:
 - **C# scripts** for AR logic  
 
 ---
-
+<video src="demo.mp4" controls width="600">
+  Your browser does not support the video tag.  
+  👉 [Click here to watch the demo](demo.mp4)
+</video>
